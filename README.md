@@ -22,6 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 - App -> Presentation
 - Middleware -> Domain
 - Data -> Data
-
-- datasources -> api
-- 
+- datasources -> hooks
