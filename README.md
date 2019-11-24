@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - [TDD: Reference ](https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/)
 # Name changes
-- App -> Presentation
-- Middleware -> Domain
-- Data -> Data
-- datasources -> hooks
+- App <- Presentation
+- Middleware <- Domain
+- Data <- Data
+- Hooks <- Datasources
