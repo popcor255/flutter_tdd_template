@@ -18,5 +18,5 @@ Future init() async {
 
   //! Features - Number Trivia
   //Bloc
-  sl.registerFactory(() => ExampleBloc());
+  sl.registerFactory(() => BlocEg());
 }
