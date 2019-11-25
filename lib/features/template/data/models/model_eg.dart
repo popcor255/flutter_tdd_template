@@ -7,6 +7,5 @@ class ExampleModel extends Entity {
   }) : super(id: id);
 
   @override
-  // TODO: implement props
   List<Object> get props => [this.id];
 }

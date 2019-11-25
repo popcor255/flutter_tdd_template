@@ -7,7 +7,6 @@ import 'package:tdd_template/features/template/app/widgets/widgets.dart';
 class PageEg extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Scaffold(
       appBar: AppBar(
         title: Text('Example'),

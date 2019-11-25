@@ -14,7 +14,6 @@ abstract class UseCase<Type, Params> {
 
 class NoParams extends Equatable {
   @override
-  // TODO: implement props
   List<Object> get props => null;
 }
 
@@ -24,6 +23,5 @@ class Params extends Equatable {
   Params({@required this.number});
 
   @override
-  // TODO: implement props
   List<Object> get props => [number];
 }

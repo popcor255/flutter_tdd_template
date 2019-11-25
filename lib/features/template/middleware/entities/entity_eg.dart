@@ -7,6 +7,5 @@ class Entity extends Equatable {
   Entity({@required this.id});
 
   @override
-  // TODO: implement props
   List<Object> get props => [id];
 }

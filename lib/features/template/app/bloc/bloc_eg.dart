@@ -9,7 +9,5 @@ class BlocEg extends Bloc<EventEg, StateEg> {
   @override
   Stream<StateEg> mapEventToState(
     EventEg event,
-  ) async* {
-    // TODO: Add Logic
-  }
+  ) async* {}
 }

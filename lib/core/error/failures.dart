@@ -5,7 +5,6 @@ abstract class Failure extends Equatable {
   Failure([properties]);
 
   @override
-  // TODO: implement props
   List<Object> get props => [this.properties];
 }
 
